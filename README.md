@@ -9,18 +9,18 @@ We pooled together a large amount of ontological knowledge, parsed it down into 
 
 
 # Usage
-
+Install packages using requirements.txt
 use command "python app.py" in code directory to run the application.
 
 # Dataset
 
-The dataset is availble on request from corresponding author.
+The dataset is availble on request from the corresponding author.
 
 # Citation
 
 Please cite our paper:
 
-
+```
 @article{kumar2023konnect2prot,
   title={konnect2prot: a web application to explore the protein properties in a functional protein--protein interaction network},
   author={Kumar, Shivam and Sarmah, Dipanka Tanu and Asthana, Shailendra and Chatterjee, Samrat},
@@ -31,3 +31,4 @@ Please cite our paper:
   year={2023},
   publisher={Oxford University Press}
 }
+```
