@@ -9,8 +9,8 @@ We pooled together a large amount of ontological knowledge, parsed it down into 
 
 
 # Usage
-Install packages using requirements.txt
-use command "python app.py" in code directory to run the application.
+* Install packages using requirements.txt
+* use command "python app.py" in code directory to run the application.
 
 # Dataset
 
